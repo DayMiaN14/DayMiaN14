@@ -1,0 +1,4 @@
+- 👋 Hallo ik ben @DayMiaN14
+- 👀 Ik ben geintereseerd in tenserflow en python for android of rasbery pi..
+- 🌱 Ik ben beginner in het programeren en zoek hulp wie mij daarbij kan helpen met phyton tenserflow for herkennings software...
+- 📫 je kan me contacten via  privehobby@hotmail.com
